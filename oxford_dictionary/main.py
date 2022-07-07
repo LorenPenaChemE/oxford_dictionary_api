@@ -145,8 +145,8 @@ class Dictionary:
 
 class OxfordDictionary:
     def __init__(self):
-        self.APP_ID = "5a065188"
-        self.APP_KEY = "cb986155975e3c58923550cdd197660c"
+        self.APP_ID = "xxx"
+        self.APP_KEY = "xxx"
 
 
     def search(self, word):
